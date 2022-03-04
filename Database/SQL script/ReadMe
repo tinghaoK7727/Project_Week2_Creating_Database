@@ -1,0 +1,5 @@
+The SQL script for our 4 tables:
+1. Den_Final: indicating the density of new businesses in Europe 
+2. Cost_Final: indicating the cost of starting new businesses in Europe
+3. Time_Final: indicatiog the time needed to create new businesses in Europe
+4. Steady Stage: tindicating the percentage of new businesses considered as "steady" in Europe
