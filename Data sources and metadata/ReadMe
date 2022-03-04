@@ -1,0 +1,3 @@
+The data collection are done by two methods: World Bank Data API and Internet research.
+For the Data from World Bank API: tables New_Business_Den, Cost, time_required, please see the jupyter notebook file for sources and metadata;
+And this is the source for our last table Development Stages: http://startupmonitor.eu/EU-Startup-Monitor-2018-Report-WEB.pdf
