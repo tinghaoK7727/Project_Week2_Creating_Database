@@ -7,6 +7,7 @@
 - Data sources and metadata: including Python script for data collection from World Bank API
 - Data bases: the 4 data tables collected via API and online research
 - SQL Script for database creation
+- An excel file explaining our calculation with info from the database
 - The link to our Jira
 
 
