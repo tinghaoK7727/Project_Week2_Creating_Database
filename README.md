@@ -27,3 +27,6 @@ Our collected data are focused on 4 indicators of 11 EU countries:
 
 ## The link to our Jira:
 https://da212.atlassian.net/jira/software/projects/PWCD/boards/6/roadmap
+
+## The link to our presentation:
+https://docs.google.com/presentation/d/1Ona7FqAAoL5YGSywUhg7matLzyaPnEe33y79Ro_lFjU/edit#slide=id.g1183175d81f_1_217
